@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "ngModuleTemplate.js",
+  "sourceRoot": "",
+  "sources": [
+    "ngModuleTemplate.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;AAAA,EAAA,YAAA,CAAA;AAEA;AAAA;;;;;;;KAFA;AAAA,EAUA,OAAO,CAAC,MAAR,CAAe,kBAAf,EAAmC,EAAnC,CAAsC,CAAC,SAAvC,CAAiD,kBAAjD,EAAqE,SAAA,GAAA;WACpE,SAAC,KAAD,EAAQ,OAAR,EAAiB,UAAjB,GAAA;aACC,KAAK,CAAC,OAAN,GAAgB,UAAU,CAAC,OAAX,IAAsB,4CADvC;IAAA,EADoE;EAAA,CAArE,CAVA,CAAA;AAAA"
+}

@@ -1,0 +1,15 @@
+{
+  "author": "Stanislas Duprey",
+  "name": "ngModuleTemplate",
+  "description": "This ngModuleTemplate description here",
+  "homepage": "http://github.com/standup75/ngModuleTemplate",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/standup75/ngModuleTemplate.git"
+  },
+  "main": "./ngModuleTemplate.js",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "^1.2.6"
+  }
+}
